@@ -1,5 +1,3 @@
-# QUẢN LÝ CONTEXT WINDOW & HIỆN TƯỢNG TRUNCATION
-*Tài liệu đào tạo & hướng dẫn nghiệp vụ CSKH MartX*
 
 ---
 
